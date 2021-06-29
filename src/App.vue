@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to teemollt App" />
+  <HelloWorld msg="Test good" />
 </template>
 
 <script>
